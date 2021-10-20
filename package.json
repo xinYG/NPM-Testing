@@ -11,6 +11,6 @@
   "dependencies": {
     "webpack-cli": "3.2.3",
     "@types/node": "^16.0.0",
-    "got": "11.8.0"
+    "got": "11.8.2"
   }
 }
