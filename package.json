@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webpack-cli": "3.2.3",
+    "webpack-cli": "5.1.4",
     "@types/node": "^16.0.0",
     "got": "11.8.2"
   }
